@@ -11,10 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://https://www.linkedin.com/in/himanshu-sarin-6597b727b//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-sarin-6597b727b/" height="30" width="40" /></a>
-  
-<a href="https://Instagram.com/in/https://www.Instagram.com/in/https://www.instagram.com/iamhs_1//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Instagram-alt.svg" alt="https://www.Instagram.com/in/https://www.instagram.com/iamhs_1//" height="30" width="40" /></a>
-  
-<a href="https://Facebook.com/in/https://www.Facebook.com/in/https://www.facebook.com/himanshusarin23///" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Facebook-alt.svg" alt="https://www.Facebook.com/in/https://www.facebook.com/himanshusarin23//" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
